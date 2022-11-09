@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/goddycode/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=ak%2bBllx4&id=B246A74ED58013D602C3CD87297CC25ABC852266&thid=OIP.ak-Bllx4e5LhcZ8HTh5zbAHaEL&mediaurl=https%3a%2f%2fthumbs.gfycat.com%2fMajesticScentedDeinonychus-size_restricted.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6a4f81965c787b92e1719f074e1e736c%3frik%3dZiKFvFrCfCmHzQ%26pid%3dImgRaw%26r%3d0&exph=282&expw=500&q=Programmer+Animated+GIF&simid=608050117026192441&FORM=IRPRST&ck=CDA5473D0C1031C4EA9393F639616724&selectedIndex=143">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goddycode&label=Profile%20views&color=0e75b6&style=flat" alt="goddycode" /> </p>
 
 <h2> Hey there! I'm Godfrey.</h2>
 
