@@ -7,8 +7,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Enginerring with ALX Africa in collaboration with Holbon Collage.
-- 💼 &nbsp; Working as a ICT Support Office at ICT Authority Kenya.
+- 🎓 &nbsp; Studying Software Enginerring with ALX Africa in collaboration with Holbeton School.
+- 💼 &nbsp; Working as a ICT Support Officer at ICT Authority Kenya.
 - 🌱 &nbsp; Learning more about Algorithm, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
